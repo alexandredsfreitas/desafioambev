@@ -15,3 +15,4 @@
 /Users/alexandredsfreitas/Downloads/abi-gth-omnia-developer-evaluation/template/backend/src/Ambev.DeveloperEvaluation.Application/obj/Debug/net8.0/refint/Ambev.DeveloperEvaluation.Application.dll
 /Users/alexandredsfreitas/Downloads/abi-gth-omnia-developer-evaluation/template/backend/src/Ambev.DeveloperEvaluation.Application/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Application.pdb
 /Users/alexandredsfreitas/Downloads/abi-gth-omnia-developer-evaluation/template/backend/src/Ambev.DeveloperEvaluation.Application/obj/Debug/net8.0/ref/Ambev.DeveloperEvaluation.Application.dll
+/Users/alexandredsfreitas/Downloads/abi-gth-omnia-developer-evaluation/template/backend/src/Ambev.DeveloperEvaluation.Application/obj/Debug/net8.0/Ambev.DeveloperEvaluation.Application.sourcelink.json
